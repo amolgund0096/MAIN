@@ -5,7 +5,7 @@ https://github.com/amolgund0096/POSTGRESSS.git   8090
 
 https://github.com/amolgund0096/NGINXX.git     8091
 
-https://github.com/amolgund0096/ALPINE.git
+https://github.com/amolgund0096/ALPINE.git     8092
 
 https://github.com/amolgund0096/HELLOWORLD.git
 
